@@ -1,6 +1,6 @@
 # Financial-Advisor
 
-![AI Financial Advisor](./assets/screenshot.png)
+![AI Financial Advisor](./screenshot.png)
 
 This project by Ruju Shah, demonstrates how to build a personalized AI Financial Advisor using Python, OpenAI's GPT model, and Google Sheets or local CSV data. It's designed for people who want to learn some basics of AI, particularly those with existing Python knowledge or beginners in the field.
 
